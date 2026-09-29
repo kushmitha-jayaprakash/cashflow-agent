@@ -1,0 +1,15 @@
+date,person,description,amount,type
+2026-09-29,Arun,Swiggy,850,expense
+2026-09-29,Priya,Zomato,720,expense
+2026-09-29,Rahul,Swiggy,900,expense
+2026-09-30,Arun,Landlord Rent,18000,expense
+2026-10-01,Priya,EB Electricity,3200,expense
+2026-10-01,Rahul,Airtel Recharge,999,expense
+2026-10-02,Arun,Swiggy,1100,expense
+2026-10-02,Priya,Zomato,950,expense
+2026-10-03,Rahul,Swiggy,1200,expense
+2026-10-03,Arun,XYZ SERVICES,740,expense
+2026-10-04,Priya,RK ENTERPRISE,1200,expense
+2026-10-05,Arun,Salary,15000,income
+2026-10-05,Priya,Salary,15000,income
+2026-10-05,Rahul,Salary,15000,income
