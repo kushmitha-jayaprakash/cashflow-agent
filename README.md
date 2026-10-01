@@ -17,7 +17,7 @@ The agent provides a seven-day warning and proposes a safer schedule.
 - Reads sample transaction data
 - Detects unusual food spending
 - Detects bill-date collisions
-- Proposes a resolved 7-day bill schedule
+- Proposes a resolved 7-Day bill schedule
 - Reads bill PDFs
 - Parses sample UPI/SMS transactions
 - Identifies unmatched transactions without guessing
